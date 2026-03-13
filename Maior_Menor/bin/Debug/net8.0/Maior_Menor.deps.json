@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Maior_Menor/1.0.0": {
+        "runtime": {
+          "Maior_Menor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Maior_Menor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

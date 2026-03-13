@@ -1,0 +1,15 @@
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Segregador_de_Idade\bin\Debug\net8.0\Segregador_de_Idade.exe
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Segregador_de_Idade\bin\Debug\net8.0\Segregador_de_Idade.deps.json
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Segregador_de_Idade\bin\Debug\net8.0\Segregador_de_Idade.runtimeconfig.json
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Segregador_de_Idade\bin\Debug\net8.0\Segregador_de_Idade.dll
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Segregador_de_Idade\bin\Debug\net8.0\Segregador_de_Idade.pdb
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Segregador_de_Idade\obj\Debug\net8.0\Segregador_de_Idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Segregador_de_Idade\obj\Debug\net8.0\Segregador_de_Idade.AssemblyInfoInputs.cache
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Segregador_de_Idade\obj\Debug\net8.0\Segregador_de_Idade.AssemblyInfo.cs
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Segregador_de_Idade\obj\Debug\net8.0\Segregador_de_Idade.csproj.CoreCompileInputs.cache
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Segregador_de_Idade\obj\Debug\net8.0\Segregador_de_Idade.sourcelink.json
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Segregador_de_Idade\obj\Debug\net8.0\Segregador_de_Idade.dll
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Segregador_de_Idade\obj\Debug\net8.0\refint\Segregador_de_Idade.dll
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Segregador_de_Idade\obj\Debug\net8.0\Segregador_de_Idade.pdb
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Segregador_de_Idade\obj\Debug\net8.0\Segregador_de_Idade.genruntimeconfig.cache
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Segregador_de_Idade\obj\Debug\net8.0\ref\Segregador_de_Idade.dll

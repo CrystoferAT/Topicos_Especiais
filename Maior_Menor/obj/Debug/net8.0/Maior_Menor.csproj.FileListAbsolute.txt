@@ -1,0 +1,15 @@
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Maior_Menor\bin\Debug\net8.0\Maior_Menor.exe
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Maior_Menor\bin\Debug\net8.0\Maior_Menor.deps.json
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Maior_Menor\bin\Debug\net8.0\Maior_Menor.runtimeconfig.json
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Maior_Menor\bin\Debug\net8.0\Maior_Menor.dll
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Maior_Menor\bin\Debug\net8.0\Maior_Menor.pdb
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Maior_Menor\obj\Debug\net8.0\Maior_Menor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Maior_Menor\obj\Debug\net8.0\Maior_Menor.AssemblyInfoInputs.cache
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Maior_Menor\obj\Debug\net8.0\Maior_Menor.AssemblyInfo.cs
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Maior_Menor\obj\Debug\net8.0\Maior_Menor.csproj.CoreCompileInputs.cache
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Maior_Menor\obj\Debug\net8.0\Maior_Menor.sourcelink.json
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Maior_Menor\obj\Debug\net8.0\Maior_Menor.dll
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Maior_Menor\obj\Debug\net8.0\refint\Maior_Menor.dll
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Maior_Menor\obj\Debug\net8.0\Maior_Menor.pdb
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Maior_Menor\obj\Debug\net8.0\Maior_Menor.genruntimeconfig.cache
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Maior_Menor\obj\Debug\net8.0\ref\Maior_Menor.dll

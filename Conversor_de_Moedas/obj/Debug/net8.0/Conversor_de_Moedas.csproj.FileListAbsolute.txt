@@ -1,0 +1,15 @@
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Conversor_de_Moedas\bin\Debug\net8.0\Conversor_de_Moedas.exe
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Conversor_de_Moedas\bin\Debug\net8.0\Conversor_de_Moedas.deps.json
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Conversor_de_Moedas\bin\Debug\net8.0\Conversor_de_Moedas.runtimeconfig.json
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Conversor_de_Moedas\bin\Debug\net8.0\Conversor_de_Moedas.dll
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Conversor_de_Moedas\bin\Debug\net8.0\Conversor_de_Moedas.pdb
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Conversor_de_Moedas\obj\Debug\net8.0\Conversor_de_Moedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Conversor_de_Moedas\obj\Debug\net8.0\Conversor_de_Moedas.AssemblyInfoInputs.cache
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Conversor_de_Moedas\obj\Debug\net8.0\Conversor_de_Moedas.AssemblyInfo.cs
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Conversor_de_Moedas\obj\Debug\net8.0\Conversor_de_Moedas.csproj.CoreCompileInputs.cache
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Conversor_de_Moedas\obj\Debug\net8.0\Conversor_de_Moedas.sourcelink.json
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Conversor_de_Moedas\obj\Debug\net8.0\Conversor_de_Moedas.dll
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Conversor_de_Moedas\obj\Debug\net8.0\refint\Conversor_de_Moedas.dll
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Conversor_de_Moedas\obj\Debug\net8.0\Conversor_de_Moedas.pdb
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Conversor_de_Moedas\obj\Debug\net8.0\Conversor_de_Moedas.genruntimeconfig.cache
+C:\Users\CRYSTOFERALONCOTRE\Desktop\Topicos_Especiais\TopicosEspeciais\Conversor_de_Moedas\obj\Debug\net8.0\ref\Conversor_de_Moedas.dll
