@@ -1,0 +1,15 @@
+C:\Users\CRYSTOFERALONCOTRE\Documents\Topicos_Especiais\Vetores\Exercicio03\bin\Debug\net8.0\Exercicio03.exe
+C:\Users\CRYSTOFERALONCOTRE\Documents\Topicos_Especiais\Vetores\Exercicio03\bin\Debug\net8.0\Exercicio03.deps.json
+C:\Users\CRYSTOFERALONCOTRE\Documents\Topicos_Especiais\Vetores\Exercicio03\bin\Debug\net8.0\Exercicio03.runtimeconfig.json
+C:\Users\CRYSTOFERALONCOTRE\Documents\Topicos_Especiais\Vetores\Exercicio03\bin\Debug\net8.0\Exercicio03.dll
+C:\Users\CRYSTOFERALONCOTRE\Documents\Topicos_Especiais\Vetores\Exercicio03\bin\Debug\net8.0\Exercicio03.pdb
+C:\Users\CRYSTOFERALONCOTRE\Documents\Topicos_Especiais\Vetores\Exercicio03\obj\Debug\net8.0\Exercicio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRYSTOFERALONCOTRE\Documents\Topicos_Especiais\Vetores\Exercicio03\obj\Debug\net8.0\Exercicio03.AssemblyInfoInputs.cache
+C:\Users\CRYSTOFERALONCOTRE\Documents\Topicos_Especiais\Vetores\Exercicio03\obj\Debug\net8.0\Exercicio03.AssemblyInfo.cs
+C:\Users\CRYSTOFERALONCOTRE\Documents\Topicos_Especiais\Vetores\Exercicio03\obj\Debug\net8.0\Exercicio03.csproj.CoreCompileInputs.cache
+C:\Users\CRYSTOFERALONCOTRE\Documents\Topicos_Especiais\Vetores\Exercicio03\obj\Debug\net8.0\Exercicio03.sourcelink.json
+C:\Users\CRYSTOFERALONCOTRE\Documents\Topicos_Especiais\Vetores\Exercicio03\obj\Debug\net8.0\Exercicio03.dll
+C:\Users\CRYSTOFERALONCOTRE\Documents\Topicos_Especiais\Vetores\Exercicio03\obj\Debug\net8.0\refint\Exercicio03.dll
+C:\Users\CRYSTOFERALONCOTRE\Documents\Topicos_Especiais\Vetores\Exercicio03\obj\Debug\net8.0\Exercicio03.pdb
+C:\Users\CRYSTOFERALONCOTRE\Documents\Topicos_Especiais\Vetores\Exercicio03\obj\Debug\net8.0\Exercicio03.genruntimeconfig.cache
+C:\Users\CRYSTOFERALONCOTRE\Documents\Topicos_Especiais\Vetores\Exercicio03\obj\Debug\net8.0\ref\Exercicio03.dll
