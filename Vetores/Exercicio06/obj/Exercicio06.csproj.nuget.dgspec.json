@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CRYSTOFERALONCOTRE\\Documents\\Topicos_Especiais\\Vetores\\Exercicio06\\Exercicio06.csproj": {}
+    "C:\\Users\\crist\\OneDrive\\Documentos\\Ads\\4Semestre\\Topicos_Especiais\\Vetores\\Exercicio06\\Exercicio06.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CRYSTOFERALONCOTRE\\Documents\\Topicos_Especiais\\Vetores\\Exercicio06\\Exercicio06.csproj": {
+    "C:\\Users\\crist\\OneDrive\\Documentos\\Ads\\4Semestre\\Topicos_Especiais\\Vetores\\Exercicio06\\Exercicio06.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CRYSTOFERALONCOTRE\\Documents\\Topicos_Especiais\\Vetores\\Exercicio06\\Exercicio06.csproj",
+        "projectUniqueName": "C:\\Users\\crist\\OneDrive\\Documentos\\Ads\\4Semestre\\Topicos_Especiais\\Vetores\\Exercicio06\\Exercicio06.csproj",
         "projectName": "Exercicio06",
-        "projectPath": "C:\\Users\\CRYSTOFERALONCOTRE\\Documents\\Topicos_Especiais\\Vetores\\Exercicio06\\Exercicio06.csproj",
-        "packagesPath": "C:\\Users\\CRYSTOFERALONCOTRE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CRYSTOFERALONCOTRE\\Documents\\Topicos_Especiais\\Vetores\\Exercicio06\\obj\\",
+        "projectPath": "C:\\Users\\crist\\OneDrive\\Documentos\\Ads\\4Semestre\\Topicos_Especiais\\Vetores\\Exercicio06\\Exercicio06.csproj",
+        "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\crist\\OneDrive\\Documentos\\Ads\\4Semestre\\Topicos_Especiais\\Vetores\\Exercicio06\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\CRYSTOFERALONCOTRE\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
