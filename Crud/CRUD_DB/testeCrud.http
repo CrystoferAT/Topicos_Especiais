@@ -1,9 +1,9 @@
-
-@baseUrl = http://localhost:5133
+@baseUrl = http://localhost:5000
 
 ###1.Criar um novo item (POST)
 POST {{baseUrl}}/produtos
 Content-Type: application/json
+
 {
     "Nome": "TV 55",
     "Preco": 4000

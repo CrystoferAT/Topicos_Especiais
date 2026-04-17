@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CRYSTOFERALONCOTRE\\Documents\\Topicos_Especiais\\Crud\\CRUD_DB\\CRUD_DB.csproj": {}
+    "C:\\Users\\CRYSTOFERALONCOTRE\\Documents\\Topicos_Especiais\\Biblioteca_CRUD\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CRYSTOFERALONCOTRE\\Documents\\Topicos_Especiais\\Crud\\CRUD_DB\\CRUD_DB.csproj": {
+    "C:\\Users\\CRYSTOFERALONCOTRE\\Documents\\Topicos_Especiais\\Biblioteca_CRUD\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CRYSTOFERALONCOTRE\\Documents\\Topicos_Especiais\\Crud\\CRUD_DB\\CRUD_DB.csproj",
-        "projectName": "CRUD_DB",
-        "projectPath": "C:\\Users\\CRYSTOFERALONCOTRE\\Documents\\Topicos_Especiais\\Crud\\CRUD_DB\\CRUD_DB.csproj",
+        "projectUniqueName": "C:\\Users\\CRYSTOFERALONCOTRE\\Documents\\Topicos_Especiais\\Biblioteca_CRUD\\Biblioteca\\Biblioteca.csproj",
+        "projectName": "Biblioteca",
+        "projectPath": "C:\\Users\\CRYSTOFERALONCOTRE\\Documents\\Topicos_Especiais\\Biblioteca_CRUD\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\CRYSTOFERALONCOTRE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CRYSTOFERALONCOTRE\\Documents\\Topicos_Especiais\\Crud\\CRUD_DB\\obj\\",
+        "outputPath": "C:\\Users\\CRYSTOFERALONCOTRE\\Documents\\Topicos_Especiais\\Biblioteca_CRUD\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CRYSTOFERALONCOTRE\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -42,18 +42,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.*, )"
-            },
-            "Microsoft.EntityFrameworkCore.Sqlite": {
-              "target": "Package",
-              "version": "[8.0.*, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
