@@ -1,0 +1,11 @@
+@baseUrl = http://localhost:5000
+
+###1.Criar um novo item (POST)
+POST {{baseUrl}}/livros
+Content-Type: application/json
+
+{
+    "Nome": "O Homem Mais Rico Da Babilônia",
+    "Autor": "George Samuel Clanson",
+    "AnoPublicacao": 1926
+}

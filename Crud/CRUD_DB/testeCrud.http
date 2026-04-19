@@ -1,4 +1,3 @@
-
 @baseUrl = http://localhost:5000
 
 ###1.Criar um novo item (POST)
