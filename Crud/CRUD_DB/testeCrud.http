@@ -1,10 +1,28 @@
 
-@baseUrl = http://localhost:5133
+@baseUrl = http://localhost:5000
 
 ###1.Criar um novo item (POST)
 POST {{baseUrl}}/produtos
 Content-Type: application/json
+
 {
-    "Nome": "TV 55",
-    "Preco": 4000
+    "Nome": "TV 55 LG",
+    "Preco": 2000
+}
+
+
+### Deletar produto por Id
+DELETE {{baseUrl}}/produtos/4
+
+### Listar todos o produtos (GET)
+GET {{baseUrl}}/produtos
+
+### Atualizar produto (PUT)
+
+PUT {{baseUrl}}/produtos/4
+Content-Type: application/json
+
+{
+    "Nome": "Celular",
+    "Preco": 4500
 }

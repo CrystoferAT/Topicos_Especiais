@@ -2381,19 +2381,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\CRYSTOFERALONCOTRE\\.nuget\\packages\\": {}
+    "C:\\Users\\crist\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\CRYSTOFERALONCOTRE\\Desktop\\Topicos_Especiais\\Crud\\CRUD_DB\\CRUD_DB.csproj",
+      "projectUniqueName": "C:\\Users\\crist\\OneDrive\\Documentos\\Ads\\4Semestre\\Topicos_Especiais\\Crud\\CRUD_DB\\CRUD_DB.csproj",
       "projectName": "CRUD_DB",
-      "projectPath": "c:\\Users\\CRYSTOFERALONCOTRE\\Desktop\\Topicos_Especiais\\Crud\\CRUD_DB\\CRUD_DB.csproj",
-      "packagesPath": "C:\\Users\\CRYSTOFERALONCOTRE\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\CRYSTOFERALONCOTRE\\Desktop\\Topicos_Especiais\\Crud\\CRUD_DB\\obj\\",
+      "projectPath": "C:\\Users\\crist\\OneDrive\\Documentos\\Ads\\4Semestre\\Topicos_Especiais\\Crud\\CRUD_DB\\CRUD_DB.csproj",
+      "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\crist\\OneDrive\\Documentos\\Ads\\4Semestre\\Topicos_Especiais\\Crud\\CRUD_DB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\CRYSTOFERALONCOTRE\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -2452,7 +2452,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
