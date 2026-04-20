@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CRYSTOFERALONCOTRE\\Documents\\Topicos_Especiais\\Biblioteca_CRUD\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\Users\\crist\\OneDrive\\Documentos\\Ads\\4Semestre\\Topicos_Especiais\\BIBLIOTECA_CRUD\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CRYSTOFERALONCOTRE\\Documents\\Topicos_Especiais\\Biblioteca_CRUD\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\crist\\OneDrive\\Documentos\\Ads\\4Semestre\\Topicos_Especiais\\BIBLIOTECA_CRUD\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CRYSTOFERALONCOTRE\\Documents\\Topicos_Especiais\\Biblioteca_CRUD\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\crist\\OneDrive\\Documentos\\Ads\\4Semestre\\Topicos_Especiais\\BIBLIOTECA_CRUD\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\CRYSTOFERALONCOTRE\\Documents\\Topicos_Especiais\\Biblioteca_CRUD\\Biblioteca\\Biblioteca.csproj",
-        "packagesPath": "C:\\Users\\CRYSTOFERALONCOTRE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CRYSTOFERALONCOTRE\\Documents\\Topicos_Especiais\\Biblioteca_CRUD\\Biblioteca\\obj\\",
+        "projectPath": "C:\\Users\\crist\\OneDrive\\Documentos\\Ads\\4Semestre\\Topicos_Especiais\\BIBLIOTECA_CRUD\\Biblioteca\\Biblioteca.csproj",
+        "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\crist\\OneDrive\\Documentos\\Ads\\4Semestre\\Topicos_Especiais\\BIBLIOTECA_CRUD\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\CRYSTOFERALONCOTRE\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -42,6 +42,24 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -61,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.420/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

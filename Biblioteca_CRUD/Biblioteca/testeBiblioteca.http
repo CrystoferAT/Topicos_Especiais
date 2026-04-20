@@ -1,0 +1,30 @@
+@baseUrl = http://localhost:5000
+
+###1.Criar um novo item (POST)
+POST {{baseUrl}}/livros
+Content-Type: application/json
+
+{
+    "Nome": "Pai Rico Pai Pobre",
+    "Autor": "Robert T.Kyiosaki",
+    "AnoPublicacao": 2017
+}
+
+###2.Listar itens (GET)
+GET {{baseUrl}}/livros
+
+//subistituir (id) pelo id do item
+
+###3.Atualizar intens por id (PUT)
+PUT {{baseUrl}}/livros/3
+Content-Type: application/json
+
+{
+    "Nome":"As Crônicas do Gelo e Fogo Livro I",
+    "Autor":"George R.R",
+    "AnoPublicacao": 2019
+}
+
+###4.Deletar item por id(DELETE)
+DELETE {{baseUrl}}/livros/4
+
